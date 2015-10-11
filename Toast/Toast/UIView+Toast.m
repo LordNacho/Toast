@@ -19,7 +19,7 @@
 static const CGFloat CSToastMaxWidth            = 0.8;      // 80% of parent view width
 static const CGFloat CSToastMaxHeight           = 0.8;      // 80% of parent view height
 static const CGFloat CSToastHorizontalPadding   = 10.0;
-static const CGFloat CSToastVerticalPadding     = 10.0;
+static const CGFloat CSToastVerticalPadding     = 0.0;
 static const CGFloat CSToastCornerRadius        = 10.0;
 static const CGFloat CSToastOpacity             = 0.8;
 static const CGFloat CSToastFontSize            = 16.0;
